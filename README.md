@@ -21,7 +21,7 @@ DDL file will create a new table fact_rental with specified columns and their co
 
 DML fill queries the data from sakila and sakila_snowflake database and inserts it into fact_rental table
 
-# Sakila Enhanced Entity-Relationship (EER) diagram
+# Enhanced Entity-Relationship (EER) diagram
 
 The EER diagram is the modeling interface and provides a visual representation of the relationships among the tables in sakila_snowflake database
 
