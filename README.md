@@ -27,4 +27,4 @@ The EER diagram is the modeling interface and provides a visual representation o
 
 # Data visualization
 
-Tableau is used to created a dashboard for sakila dataset and it can be viewed here: https://public.tableau.com/app/profile/vijay.krishna7954/viz/Sakila_Visualization/Dashboard
+Tableau is used to created a dashboard for sakila dataset and it can be viewed here: https://public.tableau.com/app/profile/vijaykrishna/viz/Sakila_Visualization/Dashboard
