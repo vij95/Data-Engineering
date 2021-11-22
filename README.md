@@ -17,3 +17,6 @@ All the questions are provided in the code as comments
 
 # Sakila DDL and DML
 
+DDL file will create a new table fact_rental with specified columns and their concerned foreign key constraints
+
+DML fill queries the data from sakila and sakila_snowflake database and inserts it into fact_rental table
